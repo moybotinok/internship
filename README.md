@@ -18,3 +18,4 @@
 ### Будет плюсом:
 + не использовать Storyboard
 + заюзать UICollectionView
++ VIPER
